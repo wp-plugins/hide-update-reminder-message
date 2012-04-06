@@ -1,9 +1,9 @@
-=== Hide Update Reminder ===
+=== Hide Update Reminder Message===
 Contributors: sumit
 Donate link: http://www.sumitbansal.com
-Tags: admin, upgrade, cms
+Tags: admin, upgrade, cms, hide update message
 Requires at least: 2.5
-Tested up to: 3.0.1
+Tested up to: 3.2.1
 Stable tag: 1.0
 
 Hides the Update Reminder in the Admin for all non Admin users.

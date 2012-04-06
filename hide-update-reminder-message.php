@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Hide Update Message From Admin
-Plugin URI: http://www.sumitbansal.com/
+Plugin Name: Hide Update Reminder Message
+Plugin URI: http://sumitbansal.com/wordpress-plugin/hide-update-reminder-message/
 Description: Allows you to remove the upgrade Nag screen from the wordpress adminstrator or other users
 Author: Sumit Bansal
 Version: 1.0
