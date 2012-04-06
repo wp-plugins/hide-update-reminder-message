@@ -14,6 +14,8 @@ With the use of this plugin you can hides update reminder message from the WordP
 
 You can change the setting from the WordPress Admin to show the update reminder message will hide only for only non admin users or Admin to.
 
+For more information or any query please <a href="http://sumitbansal.com/wordpress-plugin/hide-update-reminder-message/">click here</a>
+
 == Installation ==
 
 Installation Instructions:
